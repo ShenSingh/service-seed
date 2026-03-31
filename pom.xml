@@ -11,9 +11,9 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
     <modules>
-        <module>services/edusubmit-file-service</module>
-        <module>services/edusubmit-student-service</module>
-        <module>services/edusubmit-submission-service</module>
+        <module>edusubmit-file-service</module>
+        <module>edusubmit-student-service</module>
+        <module>edusubmit-submission-service</module>
     </modules>
 
 </project>
